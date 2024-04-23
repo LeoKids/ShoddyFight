@@ -3,8 +3,9 @@
  *
  * Created on Apr 4, 2009, 2:26:28 PM
  *
- * This file is a part of Shoddy Battle.
+ * This file is a part of Shoddy Fight.
  * Copyright (C) 2009  Catherine Fitzpatrick and Benjamin Gwin
+ * Copyright (C) 2024 LeoKids too
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Affero General Public License
